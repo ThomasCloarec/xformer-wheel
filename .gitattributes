@@ -1,0 +1,2 @@
+. filter=lfs diff=lfs merge=lfs -text
+xformers-0.0.16+bc08bbc.d20230127-cp38-cp38-linux_x86_64.whl filter=lfs diff=lfs merge=lfs -text
